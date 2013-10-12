@@ -1,0 +1,15 @@
+{
+  "name": "router",
+  "description": "skeleton router",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "development": {},
+  "local": [
+    "bootstrap"
+  ],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap",
+  "description": "styles bootstrap",
+  "version": "0.0.1",
+  "styles": [
+    "styles/reset.styl"
+  ]
+}
