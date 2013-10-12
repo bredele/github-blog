@@ -1,0 +1,15 @@
+{
+  "name": "proxy",
+  "description": "github-blog proxy",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/marked" : "*",
+    "visionmedia/superagent" : "*",
+    "ForbesLindesay/base64-decode" : "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

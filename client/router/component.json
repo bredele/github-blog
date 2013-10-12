@@ -3,10 +3,11 @@
   "description": "github-blog router",
   "version": "0.0.1",
   "dependencies": {
+    "visionmedia/page.js" : "*"
   },
   "development": {},
   "local": [
-    "parser"
+    "proxy"
   ],
   "main": "index.js",
   "scripts": [

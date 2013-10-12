@@ -20,8 +20,8 @@ module.exports = function(req, res, next) {
   builder.build(function(err, res){
     if (err) return next(err);
     var js = res.require + res.js;
-    write('public/skeleton.js', js);
-    write('public/skeleton.css', res.css);
+    write('public/blog.js', js);
+    write('public/blog.css', res.css);
     utils.log('js', (js.length / 1024 | 0) + 'kb');
     utils.log('css', (res.css.length / 1024 | 0) + 'kb');
     utils.log('duration', (new Date - start) + 'ms');
