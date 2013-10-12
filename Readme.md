@@ -1,31 +1,13 @@
+# github blog
 
-# skeleton
+  > client side engine to get blog post from your github repos
+ 
 
-  > An halloween component bootstrap
-
-## Installation
-
-  Install with [component(1)](http://component.io):
-
-    $ component install bredele/skeleton
-
-
-## What is component?
-
-
-## What is skeleton?
-
+## Minimum viable product
   
-
-## Minimal viable product
-
-  - Loose coupled architecture
-  - Self contained component
-  - Maintainable JavaScript and CSS
-  - Same build for both JavaScript and CSS 
-  - Reduce build overhead
-
-
+  - get list of blog posts
+  - get markdown document from repo
+  - display blog post with appropriate url (blog/repo/id)
 
 ## License
 
