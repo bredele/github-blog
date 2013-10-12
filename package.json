@@ -1,5 +1,5 @@
 {
-  "name": "skeleton",
+  "name": "github-blog",
   "version": "0.0.0",
   "description": "component bootstrap",
   "main": "server/index.js",

@@ -1,12 +1,12 @@
 {
   "name": "router",
-  "description": "skeleton router",
+  "description": "github-blog router",
   "version": "0.0.1",
   "dependencies": {
   },
   "development": {},
   "local": [
-    "bootstrap"
+    "parser"
   ],
   "main": "index.js",
   "scripts": [
